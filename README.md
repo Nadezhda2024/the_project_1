@@ -11,7 +11,8 @@
 
 ## Предварительный просмотр
 ![Preview](https://github.com/Nadezhda2024/End-to-end_analytics_for_Skillbox_dashboard/blob/main/Preview.png)
-
+## Ссылка на дашборд
+<b>[End-to-end_analytics_for_Skillbox_dashboard](https://app.powerbi.com/groups/me/reports/536a8bb9-85df-47af-bace-e7fa0031276c/313627608337be55c7c8?experience=power-bi&clientSideAuth=0)
 ## Обзор набора данных
 
 Набор данных содержит ценную информацию, которая может помочь оптимизировать деятельность компании. Вот краткое описание того, чего вы можете ожидать:
