@@ -66,7 +66,7 @@
  <u>**CTR (Click-through rate)**</u>:
 - **Высокий %**- рекламный источник Mytarget самый привлекательный для целевой аудитории
 ## Автор
-- <b>[Nadezhda2024](https://github.com/Nadezhda2024)<
+- <b>[Nadezhda2024](https://github.com/Nadezhda2024)
 ## 
 ![](https://github.com/Nadezhda2024/End-to-end_analytics_for_Skillbox_dashboard/blob/main/2025-03-20_13-30-20.png)
 ![](https://github.com/Nadezhda2024/End-to-end_analytics_for_Skillbox_dashboard/blob/main/2025-03-20_14-25-12.png)
