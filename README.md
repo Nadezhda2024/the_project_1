@@ -13,7 +13,7 @@
 ![](https://github.com/Nadezhda2024/End-to-end_analytics_for_Skillbox_dashboard/blob/main/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E%20%D0%B3%D0%B8%D1%84.gif)
 
 ## Ссылка на дашборд
-<b>[End-to-end_analytics_for_Skillbox_dashboard](https://app.powerbi.com/groups/me/reports/536a8bb9-85df-47af-bace-e7fa0031276c/313627608337be55c7c8?experience=power-bi&clientSideAuth=0)
+<b>[End-to-end_analytics_for_Skillbox_dashboard](https://app.powerbi.com/links/YAJl3m_4Zg?ctid=b820ef4f-c5fc-4e01-b3e4-6d2ad14931c8&pbi_source=linkShare)
 
 ## Обзор набора данных
 
