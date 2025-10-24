@@ -10,10 +10,10 @@
 Анализ сквозной аналитики содержит полный набор данных о вымышленной компании  GingerTeam, которая провела рекламную кампанию для привлечения клиентов. Набор данных включает в себя подробную информацию о каналах привлечения(контекстная реклама, партнеры, социальные сети), сделках, менеджерах, показах, кликах, расходах.
 
 ## Предварительный просмотр
-![](https://github.com/Nadezhda2024/End-to-end_analytics_for_Skillbox_dashboard/blob/main/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E%20%D0%B3%D0%B8%D1%84.gif)
+![](https://github.com/Nadezhda2024/the_project_1/blob/main/%D0%9F%D1%80%D0%B5%D0%B2%D1%8C%D1%8E%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.gif)
 
 ## Ссылка на дашборд
-<b>[End-to-end_analytics_for_Skillbox_dashboard](https://app.powerbi.com/links/YAJl3m_4Zg?ctid=b820ef4f-c5fc-4e01-b3e4-6d2ad14931c8&pbi_source=linkShare)
+<b>[End-to-end_analytics_for_Skillbox_dashboard](https://app.powerbi.com/links/iww-Mvly3H?ctid=b820ef4f-c5fc-4e01-b3e4-6d2ad14931c8&pbi_source=linkShare)
 
 ## Обзор набора данных
 
@@ -68,7 +68,7 @@
 ## Автор
 - <b>[Nadezhda2024](https://github.com/Nadezhda2024)
 ## 
-![](https://github.com/Nadezhda2024/End-to-end_analytics_for_Skillbox_dashboard/blob/main/2025-03-20_13-30-20.png)
-![](https://github.com/Nadezhda2024/End-to-end_analytics_for_Skillbox_dashboard/blob/main/2025-03-20_14-25-12.png)
-![](https://github.com/Nadezhda2024/End-to-end_analytics_for_Skillbox_dashboard/blob/main/2025-03-20_14-26-50.png)
-![](https://github.com/Nadezhda2024/End-to-end_analytics_for_Skillbox_dashboard/blob/main/2025-03-20_14-27-26.png)
+![]()
+![]()
+![]()
+![]()
