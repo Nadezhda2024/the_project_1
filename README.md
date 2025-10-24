@@ -68,7 +68,8 @@
 ## Автор
 - <b>[Nadezhda2024](https://github.com/Nadezhda2024)
 ## 
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/Nadezhda2024/the_project_1/blob/main/2025-10-24_15-41-34.png)
+![](https://github.com/Nadezhda2024/the_project_1/blob/main/2025-10-24_15-42-36.png)
+![](https://github.com/Nadezhda2024/the_project_1/blob/main/2025-10-24_15-43-01.png)
+![](https://github.com/Nadezhda2024/the_project_1/blob/main/2025-10-24_15-43-44.png)
+![](https://github.com/Nadezhda2024/the_project_1/blob/main/2025-10-24_15-44-10.png)
